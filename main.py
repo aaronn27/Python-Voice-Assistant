@@ -23,7 +23,7 @@ voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[1].id)
 
 #API Key for Weather
-apikey = 'd5b049c1afcfece640ebdecaa8a4c608'
+apikey = 'Enter Your API Key'
 
 def talk(text):
     """
